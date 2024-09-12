@@ -1,0 +1,10 @@
+*{
+    max-width: 1440px;
+    box-sizing: content-box;
+}
+
+header{
+    height: 115px;
+    border: 2px solid red;
+}
+
