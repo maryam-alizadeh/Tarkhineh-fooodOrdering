@@ -7,5 +7,19 @@
 
 header{
     height: 115px;
-    border: 2px solid red;
+   
 }
+
+carousel-item{
+    position: relative;
+  
+}
+.order{
+  background-color: #417F56;
+  color: #fff;
+  padding:1rem 2.5rem;
+  border-radius: 8px;
+  position: absolute;
+  right: 40%;
+  top: 65%;
+       }
