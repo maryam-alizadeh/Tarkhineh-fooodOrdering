@@ -1,10 +1,19 @@
-*{
-    max-width: 1440px;
-    box-sizing: content-box;
+@import url('https://v1.fontapi.ir/css/Estedad');
+* {
+  max-width: 1440px;
+  box-sizing: content-box;
+  font-family: Estedad, sans-serif;
 }
 
-header{
-    height: 115px;
-    border: 2px solid red;
+header {
+  height: 115px;
 }
 
+
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(113, 113, 113, 1);
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: rgba(65, 127, 86, 1);
+  border-bottom: 2px solid rgba(65, 127, 86, 1);
+}
