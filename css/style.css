@@ -14,6 +14,9 @@ carousel-item{
     position: relative;
   
 }
+.leftIcon{
+  width: 130px;
+}
 .order{
   background-color: #417F56;
   color: #fff;
