@@ -16,6 +16,7 @@ carousel-item{
 }
 .leftIcon{
   width: 130px;
+  gap: 5px;
 }
 .order{
   background-color: #417F56;
@@ -25,7 +26,6 @@ carousel-item{
   position: absolute;
   right: 40%;
   top: 65%;
-
        }
 
        form{
@@ -35,6 +35,7 @@ carousel-item{
          border:2px solid #353535;
         input{
           border: none;
+          width: 80%;
         }
         button{
           border: none;
