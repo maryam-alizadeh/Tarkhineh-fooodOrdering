@@ -22,4 +22,19 @@ carousel-item{
   position: absolute;
   right: 40%;
   top: 65%;
+
+       }
+
+       form{
+        margin-top: 1rem;
+        height: 32px;
+        border-radius: 4px;
+         border:2px solid #353535;
+        input{
+          border: none;
+        }
+        button{
+          border: none;
+          background: none;
+        }
        }
