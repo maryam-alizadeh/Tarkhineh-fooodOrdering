@@ -72,3 +72,15 @@ form {
    
   }
 }
+
+.aboutSlider{
+  position: relative;
+  button{
+    position: absolute;
+    bottom:10%;
+    right: 40%;
+    background-color: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+  }
+}
