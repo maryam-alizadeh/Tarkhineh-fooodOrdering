@@ -75,14 +75,7 @@ form {
 }
 
 .aboutSlider{
- background-image: url("../image/about-slider.png");
- background-size: cover;
-  button{
-    position: absolute;
-    bottom:10%;
-    right: 40%;
-    background-color: transparent;
-    color: #fff;
-    border: 1px solid #fff;
-  }
+ background-image: url("./image/about-slider.png");
+
+
 }
