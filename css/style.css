@@ -75,7 +75,14 @@ form {
 }
 
 .aboutSlider{
- background-image: url("./image/about-slider.png");
+background-image: url("../image/about-slider.png");
+height: 390px;
 
-
+.text-btn{
+  width: 40%;
+  text-align: justify;
+  button{
+    border: 2px solid #fff;
+  }
+}
 }
